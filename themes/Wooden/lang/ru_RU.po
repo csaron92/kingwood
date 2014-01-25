@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wooden 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-06 03:04+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: kar <qw@a.we>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6
+msgid "Sorry, the page your requested could not be found, or no longer exists."
+msgstr "К сожалению, запрашиваемая страница не найдена или не существует."
+
+#: ../footer.php:4
+msgid "Designed by "
+msgstr "Дизайн"
+
+#: ../footer.php:4
+msgid "Powered by "
+msgstr "Разработано на CMS"
+
+#: ../functions.php:20
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:43
+msgid "Home"
+msgstr "Главная"
+
+#: ../index.php:11
+msgid "Recent Articles"
+msgstr "Последние статьи"
+
+#: ../index.php:63
+#: ../index.php:75
+#: ../index.php:133
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Перейти >> %s"
+
+#: ../index.php:75
+msgid "Read More"
+msgstr "Далее"
+
+#: ../index.php:95
+msgid "Recent Comments"
+msgstr "Последние комментарии"
+
+#: ../index.php:109
+msgid "Random Articles"
+msgstr "Случайные статьи"
+
+#: ../index.php:148
+msgid "About Us"
+msgstr "О нас"
+
+#: ../page-blog.php:70
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../page-blog.php:70
+msgid "by"
+msgstr " "
+
+#: ../page-blog.php:70
+msgid "on"
+msgstr " "
+
+#: ../page-blog.php:70
+msgid "in"
+msgstr "в"
+
+#: ../page-blog.php:70
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../page-blog.php:70
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../page-blog.php:70
+msgid "comments"
+msgstr "коммент."
+
+#: ../page-blog.php:90
+#, fuzzy
+msgid "read more"
+msgstr "Далее"
+
+#: ../page-blog.php:111
+#: ../page-contact.php:146
+#: ../page-full.php:47
+#: ../page-gallery.php:95
+#: ../page-login.php:68
+#: ../page-search.php:62
+#: ../page-search.php:98
+#: ../page-sitemap.php:55
+#: ../page-sitemap.php:88
+#: ../page.php:41
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../page-blog.php:112
+#: ../page-contact.php:147
+#: ../page-full.php:48
+#: ../page-gallery.php:96
+#: ../page-login.php:69
+#: ../page-search.php:99
+#: ../page-sitemap.php:89
+#: ../page.php:42
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../page-contact.php:21
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:24
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:25
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:34
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:39
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:59
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:109
+msgid "Name"
+msgstr "Имя"
+
+#: ../page-contact.php:113
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:117
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:124
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:133
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:138
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:139
+#: ../page-search.php:90
+#, fuzzy
+msgid "Submit"
+msgstr "Оставить комментарий"
+
+#: ../page-gallery.php:75
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:76
+#, fuzzy
+msgid "Read more"
+msgstr "Далее"
+
+#: ../page-login.php:57
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:58
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:62
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:62
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:56
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:61
+#, fuzzy
+msgid "Posts"
+msgstr "Опубликовано"
+
+#: ../page-search.php:65
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:60
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:65
+#, fuzzy
+msgid "Tags"
+msgstr "Страницы"
+
+#: ../page-sitemap.php:81
+msgid "Authors"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Искать"
+
+#: ../includes/comments1.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../includes/comments1.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../includes/comments1.php:20
+msgid "No Responses"
+msgstr "Нет комментариев"
+
+#: ../includes/comments1.php:20
+msgid "One Response"
+msgstr "Один комментарий"
+
+#: ../includes/comments1.php:20
+msgid "% Responses"
+msgstr "% Коммент."
+
+#: ../includes/comments1.php:20
+#, fuzzy
+msgid " to"
+msgstr ": "
+
+#: ../includes/comments1.php:37
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../includes/comments1.php:43
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../includes/comments1.php:43
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../includes/comments1.php:49
+msgid "You must be"
+msgstr "Вы должны быть"
+
+#: ../includes/comments1.php:49
+msgid "logged in"
+msgstr "зарегистрированы"
+
+#: ../includes/comments1.php:49
+msgid "to post a comment."
+msgstr "чтобы комментировать."
+
+#: ../includes/comments1.php:53
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: ../includes/comments1.php:53
+#: ../includes/comments2.php:53
+msgid "Log out &raquo;"
+msgstr "Выйти &raquo;"
+
+#: ../includes/comments1.php:58
+#: ../includes/comments1.php:64
+#: ../includes/comments2.php:60
+#: ../includes/comments2.php:67
+msgid "(required)"
+msgstr "(обязательное поле)"
+
+#: ../includes/comments1.php:63
+#: ../includes/comments2.php:66
+msgid "Mail (will not be published)"
+msgstr "Мэйл (не будет виден посетителям)"
+
+#: ../includes/comments1.php:69
+#: ../includes/comments2.php:73
+msgid "Website"
+msgstr "Сайт"
+
+#: ../includes/comments1.php:77
+#: ../includes/comments2.php:82
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: ../includes/comments2.php:4
+msgid "Enter your password to view comments."
+msgstr "Введите пароль для просмотра комментариев."
+
+#: ../includes/comments2.php:8
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: ../includes/comments2.php:8
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: ../includes/comments2.php:8
+msgid "Comments"
+msgstr "Коммент."
+
+#: ../includes/comments2.php:10
+#: ../includes/comments2.php:45
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: ../includes/comments2.php:20
+msgid "says:"
+msgstr "пишет:"
+
+#: ../includes/comments2.php:32
+msgid "No comments yet."
+msgstr "Пока нет комментариев."
+
+#: ../includes/comments2.php:36
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> подписка на этот пост."
+
+#: ../includes/comments2.php:39
+msgid "TrackBack <abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "Трэкбэк <abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: ../includes/comments2.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны быть <a href=\"%s\">зарегистрированы</a> чтобы комментировать."
+
+#: ../includes/comments2.php:52
+#, php-format
+msgid "Logged in as %s."
+msgstr "Вы вошли как %s."
+
+#: ../includes/comments2.php:52
+msgid "Log out of this account"
+msgstr "Выйти"
+
+#: ../includes/comments2.php:77
+#, php-format
+msgid "You can use these tags: %s"
+msgstr "Вы можете использовать эти тэги: %s "
+
+#: ../includes/comments2.php:90
+msgid "Sorry, the comment form is closed at this time."
+msgstr "В данный момент комментарии закрыты."
+
+#: ../includes/featured.php:4
+msgid "Featured Articles"
+msgstr "Рекомендуемые статьи "
+
+#: ../includes/featured.php:41
+msgid "Posted by"
+msgstr "Опубликовано"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:2
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:3
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или используйте меню для нахождения страницы."
+
+#: ../includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:25
+msgid "Reply"
+msgstr "Ответить"
+

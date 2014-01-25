@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quadro 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-30 16:41+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:9
+msgid "Sorry, the page your requested could not be found, or no longer exists."
+msgstr "К сожалению, запрашиваемая страница не найдена или не существует."
+
+#: ../footer.php:2
+msgid "Designed by "
+msgstr "Дизайн"
+
+#: ../footer.php:2
+msgid "Powered by "
+msgstr "Разработано на CMS"
+
+#: ../header.php:32
+msgid "Home"
+msgstr "Главная"
+
+#: ../page.php:9
+#: ../single.php:12
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Перейти >> %s"
+
+#: ../page.php:38
+#: ../single.php:43
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../page.php:39
+#: ../single.php:44
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Искать"
+
+#: ../single.php:18
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../single.php:18
+msgid "by"
+msgstr " "
+
+#: ../single.php:18
+msgid "on"
+msgstr " "
+
+#: ../single.php:18
+msgid "in"
+msgstr "в"
+
+#: ../single.php:18
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../single.php:18
+msgid "1 comment"
+msgstr "Один комментарий"
+
+#: ../single.php:18
+msgid "comments"
+msgstr "коммент."
+
+#: ../includes/comments1.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../includes/comments1.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../includes/comments1.php:20
+msgid "No Responses"
+msgstr "Нет комментариев"
+
+#: ../includes/comments1.php:20
+msgid "One Response"
+msgstr "Один комментарий"
+
+#: ../includes/comments1.php:20
+msgid "% Responses"
+msgstr "% Коммент."
+
+#: ../includes/comments1.php:20
+msgid " to"
+msgstr " : "
+
+#: ../includes/comments1.php:37
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../includes/comments1.php:43
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../includes/comments1.php:43
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../includes/comments1.php:49
+msgid "You must be"
+msgstr "Вы должны быть"
+
+#: ../includes/comments1.php:49
+msgid "logged in"
+msgstr "зарегистрированы"
+
+#: ../includes/comments1.php:49
+msgid "to post a comment."
+msgstr "чтобы комментировать."
+
+#: ../includes/comments1.php:53
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: ../includes/comments1.php:53
+#: ../includes/comments2.php:53
+msgid "Log out &raquo;"
+msgstr "Выйти &raquo;"
+
+#: ../includes/comments1.php:57
+#: ../includes/comments2.php:59
+msgid "Name"
+msgstr "Имя"
+
+#: ../includes/comments1.php:58
+#: ../includes/comments1.php:64
+#: ../includes/comments2.php:60
+#: ../includes/comments2.php:67
+msgid "(required)"
+msgstr "(обязательное поле)"
+
+#: ../includes/comments1.php:63
+#: ../includes/comments2.php:66
+msgid "Mail (will not be published)"
+msgstr "Мэйл (не будет виден посетителям)"
+
+#: ../includes/comments1.php:69
+#: ../includes/comments2.php:73
+msgid "Website"
+msgstr "Сайт"
+
+#: ../includes/comments1.php:77
+#: ../includes/comments2.php:82
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: ../includes/comments2.php:4
+msgid "Enter your password to view comments."
+msgstr "Введите пароль для просмотра комментариев."
+
+#: ../includes/comments2.php:8
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: ../includes/comments2.php:8
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: ../includes/comments2.php:8
+msgid "% Comments"
+msgstr "% коммент."
+
+#: ../includes/comments2.php:10
+#: ../includes/comments2.php:45
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: ../includes/comments2.php:32
+msgid "No comments yet."
+msgstr "Пока нет комментариев."
+
+#: ../includes/comments2.php:36
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> подписка на этот пост."
+
+#: ../includes/comments2.php:39
+msgid "TrackBack <abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "Трэкбэк <abbr title=\"Universal Resource Locator\">URL</abbr> "
+
+#: ../includes/comments2.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны быть <a href=\"%s\">зарегистрированы</a> чтобы комментировать."
+
+#: ../includes/comments2.php:52
+#, php-format
+msgid "Logged in as %s."
+msgstr "Вы вошли как %s."
+
+#: ../includes/comments2.php:52
+msgid "Log out of this account"
+msgstr "Выйти"
+
+#: ../includes/comments2.php:77
+#, php-format
+msgid "You can use these tags: %s"
+msgstr "Вы можете использовать эти тэги: %s "
+
+#: ../includes/comments2.php:90
+msgid "Sorry, the comment form is closed at this time."
+msgstr "В данный момент комментарии закрыты."
+
+#: ../includes/entry.php:29
+#: ../includes/featured.php:34
+msgid "Read More"
+msgstr "Далее"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или используйте меню для нахождения страницы."
+
+#: ../includes/tabs.php:3
+msgid "Recent Entries"
+msgstr "Послед. записи"
+
+#: ../includes/tabs.php:6
+#: ../includes/tabs.php:25
+msgid "Recent Comments"
+msgstr "Послед. комментарии"
+
+#: ../includes/tabs.php:9
+msgid "Popular Posts"
+msgstr "Популярные посты"
+
+#: ../includes/tabs.php:15
+msgid "Recent Posts"
+msgstr "Послед. посты"
+
+#: ../includes/tabs.php:34
+msgid "Popular Articles"
+msgstr "Популяр. статьи"
+
+#: ../includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:25
+msgid "Reply"
+msgstr "Ответить"
+
